@@ -41,7 +41,7 @@
       <h3 align="center">TiBi Makeup</h3>
         <br />
         <a target="_blank" href="https://tibi-makeup.netlify.app/">
-            <img src="ezgif.com-gif-maker.gif" width="00px" height="350px" alt="TiBi Makeup" align="center"/>
+            <img src="ezgif.com-gif-maker.gif" width="400px" height="350px" alt="TiBi Makeup" align="center"/>
         </a>
         <br />
         <strong>HTML & CSS </strong> <p>Resposive website for a local makeup studio.</p>
