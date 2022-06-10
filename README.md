@@ -41,7 +41,7 @@
       <h3 align="center">TiBi Makeup</h3>
         <br />
         <a target="_blank" href="https://tibi-makeup.netlify.app/">
-            <img src="ezgif.com-gif-maker.gif" width="400px" height="350px" alt="TiBi Makeup" align="center"/>
+            <img src="ezgif.com-gif-maker.gif" width="380px" height="350px" alt="TiBi Makeup"/>
         </a>
         <br />
         <strong>HTML & CSS </strong> <p>Resposive website for a local makeup studio.</p>
@@ -50,7 +50,7 @@
       <h3 align="center">Discover the COSMOS!</h3>
         <br />
         <a target="_blank" href="https://discover-the-cosmos.netlify.app/">
-            <img src="discover-cosmos-ezgif.com-gif-maker.gif" width="400px" height="350px" alt="COSMOS App"/>
+            <img src="discover-cosmos-ezgif.com-gif-maker.gif" width="380px" height="350px" alt="COSMOS App"/>
         </a>
         <br />
         <strong> HTML, CSS & JavaScript </strong> <p> Pictures from the NASA API. Discover the picture of the day or you can choose an specific date. </p>
